@@ -16,7 +16,10 @@ The examples below are shown in this order: camera (leather, metal, engraving), 
 
 **鹈鹕骑单车 / Pelican on a Bicycle**
 
-<video controls width="720" src="images/pelican.mp4"></video>
+<video width="640" height="360" controls preload="none">
+  <source src="./images/pelican.mp4" type="video/mp4">
+  您的浏览器不支持视频标签。
+</video>
 
 [▶ pelican.mp4](images/pelican.mp4)
 
