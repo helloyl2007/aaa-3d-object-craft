@@ -16,22 +16,19 @@ The examples below are shown in this order: camera (leather, metal, engraving), 
 
 **鹈鹕骑单车 / Pelican on a Bicycle**
 
-<video width="640" height="360" controls preload="none">
-  <source src="./images/pelican.mp4" type="video/mp4">
-  您的浏览器不支持视频标签。
-</video>
+https://github.com/user-attachments/assets/96dc5c07-62dd-419a-9335-5427624c27b6
 
 [▶ pelican.mp4](images/pelican.mp4)
 
 **银行家台灯 / Banker Lamp**
 
-<video controls width="720" src="images/banker-lamp.mp4"></video>
+https://github.com/user-attachments/assets/3e08dbc7-d771-4531-8c43-9af007a2ed11
 
 [▶ banker-lamp.mp4](images/banker-lamp.mp4)
 
 **法师 / Mage**
 
-<video controls width="720" src="images/mage.mp4"></video>
+
 
 [▶ mage.mp4](images/mage.mp4)
 
