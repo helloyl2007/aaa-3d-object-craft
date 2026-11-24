@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/3e08dbc7-d771-4531-8c43-9af007a2ed11
 
 **法师 / Mage**
 
-
+[mage_compressed.webm](https://github.com/user-attachments/assets/d8377185-4e51-4196-97a7-dc3dee81a8ca)
 
 [▶ mage.mp4](images/mage.mp4)
 
